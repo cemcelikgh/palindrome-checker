@@ -1,6 +1,8 @@
-# palindrome_checker
-An application that checks whether a given word is palindrome
+# palindrome-checker
+freeCodeCamp JavaScript Algorithms and Data Structures Certification Project
+<br>Palindrome Checker
+<br>An application that checks whether a given word is palindrome
 
-https://www.freecodecamp.org/learn
+Browse: <https://cemcelikgh.github.io/palindrome-checker/>
 
-![palindrome_checker](./palindrome_checker.jpg)
+[![Palindrome Checker Preview](./assets/palindrome-checker-preview.jpg "Browse Palindrome Checker")](https://cemcelikgh.github.io/palindrome-checker/)
