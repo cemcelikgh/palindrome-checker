@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  margin-top: max(calc(50vh - 200px), 0px);
+  margin-top: max(calc(50vh - 230px), 0px);
   display: flex;
   flex-direction: column;
   align-items: center;

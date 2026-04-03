@@ -3,6 +3,11 @@ const checkBtn = document.getElementById('check-btn');
 const resultDiv = document.getElementById('result');
 
 checkBtn.addEventListener('click', checkPalindrome);
+textInput.addEventListener("keyup", submitInput);
+
+function submitInput(event) {
+  if (event.key === "Enter") { checkPalindrome() };
+}
 
 function checkPalindrome() {
   const enteredString = textInput.value;
